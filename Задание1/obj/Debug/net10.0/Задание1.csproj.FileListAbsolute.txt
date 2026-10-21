@@ -1,0 +1,15 @@
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\bin\Debug\net10.0\Задание1.exe
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\bin\Debug\net10.0\Задание1.deps.json
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\bin\Debug\net10.0\Задание1.runtimeconfig.json
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\bin\Debug\net10.0\Задание1.dll
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\bin\Debug\net10.0\Задание1.pdb
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.AssemblyInfoInputs.cache
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.AssemblyInfo.cs
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.csproj.CoreCompileInputs.cache
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.dll
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\refint\Задание1.dll
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.pdb
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.genruntimeconfig.cache
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\ref\Задание1.dll
+C:\Users\japanesecastle\Documents\Проект по умолчанию\Рекурсии\Задание1\obj\Debug\net10.0\Задание1.csproj.Up2Date
